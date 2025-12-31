@@ -19,7 +19,8 @@ The focus is on clean code, clarity, and correct program flow.
 ## How to Run
 1. Clone the repository: git clone https://github.com/ZiadGawad/Food-Ordering-System.git
 2. Open the project folder
-3. Run the main file from the terminal or your IDE
+3. Compile all '.cpp' files together
+4. Run the main file from the terminal or your IDE
 
 ## What I Learned
 - How to break down a real-world problem into logical steps
@@ -28,3 +29,16 @@ The focus is on clean code, clarity, and correct program flow.
 
 ## Notes
 This project was developed as a part of my personal learning journey and focuses on fundamentals rather than production-level complexity.
+
+## Project Structure
+
+- `main.cpp` - Entry point of the program
+- `Customer.cpp/.h` - Customer class
+- `Driver.cpp/.h` - Driver class
+- `FoodItem.cpp/.h` - Food item class
+- `Order.cpp/.h` - Order class
+- `User.cpp/.h` - Base User class
+- `FileOperation.cpp/.h` - Handles reading/writing files
+- `.vscode/` - VS Code workspace settings
+- `completed_orders.txt` - Sample data file for completed orders
+- `driver_stats.txt` - Sample data file for driver statistics
