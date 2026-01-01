@@ -10,6 +10,8 @@ The focus is on clean code, clarity, and correct program flow.
 - Display available menu items
 - Create and manage orders
 - Basic input validation
+- Save Completed orders to text file
+- Save Driver Statistics to text file
 - Simple and readable code structure
 
 ## Technologies Used
